@@ -8,7 +8,7 @@ function App() {
       <header className="text-gray-700 border-b border-gray-200">
         <div className="container flex mx-auto p-5 flex-col md:flex-row items-center">
           <a href="#" className="font-medium text-gray-900 mb-4 md:mb-0">
-            <span className="ml-3 text-xl">ShinCode</span>
+            <span className="ml-3 text-xl">Y*NobCode</span>
           </a>
           <nav className="flex items-center justify-center md:ml-auto text-base">
             <a href="#home" className="mr-5 hover:text-blue-400 duration-300">Home</a>
@@ -26,14 +26,12 @@ function App() {
             <h1 className="sm:text-6xl text-3xl mb-4 font-medium text-gray-900">
               Hi!
               <br />
-              I'm ShinCode
+              I'm Y*NobCode
               <br />
-              Web Developer
+              Web Director
             </h1>
             <p className="mb-8 leading-relaxed">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt
-              dignissimos atque voluptate blanditiis necessitatibus reiciendis
-              tenetur amet? Repudiandae, cupiditate illum.
+            A web director is a person who plays a role of coordinating and managing a project of web site planning, design, and production, between the client and the production team1. A web director decides the content, design, structure, and other aspects of a web site, considering the purpose and target audience of the site2.
             </p>
             <div>
               <button className="text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
